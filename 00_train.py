@@ -1,7 +1,7 @@
 # import default libraries
 import os
 import sys
-import gc
+import gc  # garbage collector, удаление циклических ссылок
 
 # import additional libraries
 import numpy as np
