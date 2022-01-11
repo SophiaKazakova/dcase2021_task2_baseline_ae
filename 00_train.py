@@ -25,7 +25,7 @@ param = com.yaml_load()  # список параметров моделей и �
 
 # visualizer
 class visualizer(object):
-    def __init__(self):
+    def __init__(self):  # настройка параметров визуализации
         import matplotlib.pyplot as plt
         self.plt = plt
         self.fig = self.plt.figure(figsize=(7, 5))
