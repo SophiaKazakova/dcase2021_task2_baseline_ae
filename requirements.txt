@@ -1,4 +1,18 @@
-# Minimal package to use dcase2021 task2 baseline.
+# the list below is the package needed to use dcase2021 task2 baseline in google colab
+kapre==0.1.3.1
+tensorflow==1.15.0
+tensorflow-probability==0.8.0
+keras==2.3.0
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.0.5
+PyYAML==5.1
+librosa==0.6.0
+numba==0.48
+h5py==2.10.0
+
+
+
+# Minimal package to use dcase2021 task2 baseline. [original file]
 keras==2.3.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.0.5
