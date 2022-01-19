@@ -2,6 +2,7 @@
 Autoencoder-based baseline system for [DCASE2021 Challenge Task 2](http://dcase.community/challenge2021/task-unsupervised-detection-of-anomalous-sounds).
 
 This fork is dedicated to compiling a google colab interactive version of the baseline. The files are edited the way the notebook needs them. 
+INFO.md is a desciption of the original task translated to russian
 
 ## Description
 This system consists of two main scripts:
